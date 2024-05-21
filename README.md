@@ -7,7 +7,9 @@
 
 I am an IT student at Kuben Videregående Skole.
 
-I like back-end programing and game development.
+I like programing and game development.
+
+Currently working on a silly dating sim game made in Ren'Py
 
 
 <h2>LOOK AT THIS EVIL AND MISCHEVIOUS CAT!!</h2>
