@@ -9,7 +9,7 @@ I am an IT student at Kuben Videregående Skole.
 
 I like programing and game development.
 
-Currently working on a silly dating sim game made in Ren'Py
+Currently working on a silly dating sim game made in Ren'Pya and a simple recreation of the snake game in Python
 
 
 <h2>LOOK AT THIS EVIL AND MISCHEVIOUS CAT!!</h2>
