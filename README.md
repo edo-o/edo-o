@@ -11,7 +11,7 @@ I like programing and game development.
 
 Currently working on a silly dating sim game made in Ren'Py and a simple recreation of the snake game in Python
 
-Things i would like to learn:
+<h3>Things i would like to learn:</h3>
 
 Python
 
