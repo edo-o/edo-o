@@ -13,7 +13,9 @@ Currently working on a silly dating sim game made in Ren'Py and a simple recreat
 
 Things i would like to learn:
 Python
+
 C#
+
 C++
 
 
