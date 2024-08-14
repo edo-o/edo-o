@@ -5,7 +5,7 @@
 
 <h2>Im Edo!</h2>
 
-I am an IT student at Kuben Videregående Skole.
+I am an Intern at Sopra Steria AS.
 
 I like programing and game development.
 
