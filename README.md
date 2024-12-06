@@ -9,7 +9,7 @@ I am an Intern at Sopra Steria AS.
 
 I like programing and game development.
 
-Currently working on a Top down bullet hell shooter on Unity.
+Currently working on a bullet hell game on Unity.
 
 <h3>Things i would like to learn:</h3>
 
