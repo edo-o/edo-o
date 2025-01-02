@@ -1,6 +1,6 @@
 <h1>Haiii>_<</h1>
   
-![nerdMiku](https://github.com/EduardoVLM/EduardoVLM/assets/144334218/e83d0eea-8d18-4405-b25e-4c687613746e)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?edo-o=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>Im Edo!</h2>
