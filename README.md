@@ -1,6 +1,6 @@
 <h1>Haiii>_<</h1>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?edo-o=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![edo-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=edo-o)](https://github.com/edo-o/github-readme-stats)
 
 
 <h2>Im Edo!</h2>
