@@ -7,7 +7,7 @@
 
 <h2>Im Edo!</h2>
 
-I am an Intern at Sopra Steria AS.
+I am an Intern at Sagene Data AS.
 
 I like programing and game development.
 
