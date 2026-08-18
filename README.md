@@ -1,13 +1,9 @@
 <h1>Haiii>_<</h1>
-  
-[![edo-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=edo-o&show_icons=true&theme=synthwave)](https://github.com/edo-o/github-readme-stats&show_icons=true&theme=synthwave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edo-o&layout=compact&theme=synthwave)
 
 
 <h2>Im Edo!</h2>
 
-I am an Intern at Sagene Data AS.
+I am studying game development at Kristiania Høyskolen
 
 I like programing and game development.
 
