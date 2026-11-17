@@ -5,18 +5,6 @@
 
 I am studying game development at Kristiania Høyskolen
 
-I like programing and game development.
-
-Currently working on a bullet hell game on Unity.
-
-<h3>Things i would like to learn:</h3>
-
-Python
-
-C#
-
-C++
-
 
 <h2>LOOK AT THIS EVIL AND MISCHEVIOUS CAT!!</h2>
 
